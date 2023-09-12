@@ -42,5 +42,7 @@ Jira, qase.io, SQL, DBeaver, Postman, Swagger, Trello, Sitechko, SoapUI, Charles
 Пароль: Trush1995;;;
 
 Контактная информация
+
 Email: svistochek2009@yandex.ru
+
 Telegram: @SvTrush
