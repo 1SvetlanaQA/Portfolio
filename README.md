@@ -21,10 +21,6 @@ Jira, qase.io, SQL, DBeaver, Postman, Swagger, Trello, Sitechko, SoapUI, Charles
 
 Ссылка на проект https://true-bag.atlassian.net/wiki/spaces/~63df6a7686a66a7cc7a81254/overview?homepageId=65619
 
-логин: svistochek2009@yandex.ru
-
-пароль: Trush1995;;;
-
 Проект 2: тестирование API веб-приложения для учителей от Skyeng (новая функция: вкладка Личные события)
 
 Задачи проекта:
@@ -36,10 +32,6 @@ Jira, qase.io, SQL, DBeaver, Postman, Swagger, Trello, Sitechko, SoapUI, Charles
 Как решала: Изучила документацию API к проекту (Swagger). На основе чек-листов из предыдущего проекта составила тест-кейсы для API в qase.io. Создала коллекцию запросов в Postman. На найденные баги завела баг-репорты в Jira. Дополнила отчет о тестировании.
 
 Ссылка на прект https://true-bag.atlassian.net/wiki/spaces/~63df6a7686a66a7cc7a81254/overview?homepageId=65619
-
-Логин svistochek2009@yandex.ru
-
-Пароль: Trush1995;;;
 
 Контактная информация
 
